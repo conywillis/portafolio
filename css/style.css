@@ -1,0 +1,76 @@
+.text-platzi {
+  color: #ffb100 !important;
+}
+
+.btn-platzi {
+  background-color:#ffb100;
+  color: #FFF; 
+}
+
+.btn-platzi:hover {
+  background-color:#e8a306;
+  color: #FFF; 
+}
+
+#header img {
+  width: 160px;
+}
+
+.bg-dark {
+  background-color: #1e1f1f!important;
+}
+
+#main .carousel-inner img {
+  max-height: 70vh;
+  object-fit: cover;
+  filter: grayscale(50%);
+}
+
+#carousel {
+  position: relative;
+}
+
+#carousel .overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.74);
+  color: #FFF;
+}
+
+#carousel .overlay .container,
+#carousel .overlay .row {
+  height: 100%;
+}
+
+#disenocor {
+  background-color: #f1f1f1;
+}
+
+#skills {
+  background-color: #343a40;
+  color: #FFF;
+}
+
+#skills img {
+  max-width: 100%;
+}
+
+#footer {
+  background: #1e1f1f;
+}
+
+#footer a {
+  color: #FFF;
+}
+
+a {
+  color: #ffb100;
+  text-decoration: none;
+  background-color: transparent;
+}
+a:hover {
+  color: #e8a306;
+}
